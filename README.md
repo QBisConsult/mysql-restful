@@ -5,7 +5,7 @@ RAPID RESTful API for MySQL
 
 INSTALLATION  ( install local is required  --save)
 
-              npm install psql-api --save
+              npm install mysql-restful --save
 
 Requirements:
 - OS: Linux, Windows 
@@ -18,13 +18,13 @@ Requirements:
 
 sample new server.js code:
 
-              server = require("psql-api");
+              server = require("mysql-restful");
               server.start();
 
 
 Install from git as standalone server:
 
-              git clone https://github.com/QBisConsult/psql-api.git
+              git clone https://github.com/QBisConsult/mysql-restful.git
 
 Run this inside the new server folder:   
 
