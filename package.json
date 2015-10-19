@@ -1,6 +1,6 @@
 {
   "name": "mysql-restful",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "MySQL RESTful API server",
   "main": "index.js",
   "scripts": {
